@@ -1,4 +1,4 @@
-# 🌐 USTS Contact Form
+# 🌐 React Website
 
 A modern, responsive contact form built with React and integrated with [EmailJS](https://www.emailjs.com/) to send form submissions directly via email—no backend required!
 
